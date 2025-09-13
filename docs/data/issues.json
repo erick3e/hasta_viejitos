@@ -1,5 +1,14 @@
 [
   {
+    "number": 9,
+    "title": "[Task]: Structural, electrical, plumbing plans",
+    "state": "open",
+    "labels": [],
+    "url": "https://github.com/erick3e/hasta_viejitos/issues/9",
+    "created_at": "2025-09-13T22:04:03Z",
+    "closed_at": null
+  },
+  {
     "number": 8,
     "title": "[Task]: Review & refine design with family input",
     "state": "open",
