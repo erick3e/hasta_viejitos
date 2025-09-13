@@ -1,0 +1,45 @@
+name: Epic
+description: Create a new Epic (a large body of work containing many tasks)
+title: "Epic: [Phase/Theme] – "
+labels: ["epic"]
+assignees: []
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: High-level description of what this Epic covers
+      placeholder: e.g., "This epic covers Phase 3: Site Prep & Infrastructure"
+  - type: textarea
+    id: goals
+    attributes:
+      label: Goals
+      description: What are the main goals/outcomes of this epic?
+      placeholder: e.g., "Prepare land, install septic, trench utilities"
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Tasks
+      description: List of child issues. Use `- [ ] #issue_number` once they exist.
+      placeholder: |
+        - [ ] #12 Clear land
+        - [ ] #13 Soil test & geotechnical report
+        - [ ] #14 Build septic tank
+  - type: dropdown
+    id: horizon
+    attributes:
+      label: Phase
+      options:
+        - Phase 1 – Pre-planning
+        - Phase 2 – Design & Planning
+        - Phase 3 – Site Prep & Infrastructure
+        - Phase 4 – Foundation & Framing
+        - Phase 5 – Systems Rough-In
+        - Phase 6 – Exterior Finishes
+        - Phase 7 – Interior Finishes
+        - Phase 8 – Final Steps
+  - type: input
+    id: owner
+    attributes:
+      label: Owner
+      description: Who’s leading this Epic? (e.g., Erick, Miguel, Family)
