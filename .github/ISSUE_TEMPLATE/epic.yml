@@ -1,38 +1,37 @@
 name: Epic
 description: Parent issue to group related tasks
 title: "Epic - "
-labels: ["epic"]
+labels:
+  - epic
 body:
   - type: textarea
     id: summary
     attributes:
       label: Summary
-      description: Brief description of what this epic covers
-      placeholder: Example: This epic covers Phase 3 site prep and infrastructure.
+      description: High level description
+      placeholder: "This epic covers Phase 3 site prep and infrastructure"
   - type: textarea
     id: goals
     attributes:
       label: Goals
       description: Outcomes and acceptance criteria
-      placeholder: Example: Prepare land, install septic, trench utilities.
+      placeholder: "Prepare land, install septic, trench utilities"
   - type: textarea
     id: tasks
     attributes:
       label: Child tasks
-      description: Link tasks using - [ ] #issue_number
-      placeholder: |
-        - [ ] #123 Clear land
-        - [ ] #124 Soil test and geotechnical report
+      description: Link tasks as checkboxes with issue numbers
+      placeholder: "- [ ] #123 Clear land\n- [ ] #124 Soil test and geotechnical report"
   - type: dropdown
     id: phase
     attributes:
       label: Phase
       options:
-        - Phase 1 - Pre-planning
-        - Phase 2 - Design and Planning
-        - Phase 3 - Site Prep and Infrastructure
-        - Phase 4 - Foundation and Framing
-        - Phase 5 - Systems Rough-In
-        - Phase 6 - Exterior Finishes
-        - Phase 7 - Interior Finishes
-        - Phase 8 - Final Steps
+        - "Phase 1 - Pre-planning"
+        - "Phase 2 - Design and Planning"
+        - "Phase 3 - Site Prep and Infrastructure"
+        - "Phase 4 - Foundation and Framing"
+        - "Phase 5 - Systems Rough-In"
+        - "Phase 6 - Exterior Finishes"
+        - "Phase 7 - Interior Finishes"
+        - "Phase 8 - Final Steps"
