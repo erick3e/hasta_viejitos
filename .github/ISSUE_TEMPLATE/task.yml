@@ -1,0 +1,33 @@
+name: Task
+description: Create a new task
+title: "[Task]: "
+labels: ["task"]
+assignees: []
+body:
+  - type: input
+    id: owner
+    attributes:
+      label: Who owns this?
+      placeholder: e.g., Erick, Spouse, Mom, Dad
+  - type: dropdown
+    id: horizon
+    attributes:
+      label: When
+      options:
+        - NOW
+        - NEXT
+        - LATER
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Steps
+      options:
+        - label: Define scope
+        - label: Do the work
+        - label: Review together
+        - label: Done
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Add context, links, photos
