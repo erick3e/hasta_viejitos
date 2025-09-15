@@ -1,5 +1,122 @@
 [
   {
+    "number": 22,
+    "title": "Epic - Site Prep & infrastructure",
+    "state": "open",
+    "labels": [],
+    "url": "https://github.com/erick3e/hasta_viejitos/issues/22",
+    "created_at": "2025-09-15T01:12:05Z",
+    "closed_at": null
+  },
+  {
+    "number": 21,
+    "title": "[Task]: Insulation",
+    "state": "open",
+    "labels": [],
+    "url": "https://github.com/erick3e/hasta_viejitos/issues/21",
+    "created_at": "2025-09-15T01:03:54Z",
+    "closed_at": null
+  },
+  {
+    "number": 20,
+    "title": "[Task]: HVAC installation",
+    "state": "open",
+    "labels": [],
+    "url": "https://github.com/erick3e/hasta_viejitos/issues/20",
+    "created_at": "2025-09-15T01:03:45Z",
+    "closed_at": null
+  },
+  {
+    "number": 19,
+    "title": "[Task]: Electrical wiring rough-in",
+    "state": "open",
+    "labels": [],
+    "url": "https://github.com/erick3e/hasta_viejitos/issues/19",
+    "created_at": "2025-09-15T01:03:36Z",
+    "closed_at": null
+  },
+  {
+    "number": 18,
+    "title": "[Task]: Plumbing rough-in",
+    "state": "open",
+    "labels": [],
+    "url": "https://github.com/erick3e/hasta_viejitos/issues/18",
+    "created_at": "2025-09-15T01:03:25Z",
+    "closed_at": null
+  },
+  {
+    "number": 17,
+    "title": "[Task]: Sheathing & weatherproofing",
+    "state": "open",
+    "labels": [],
+    "url": "https://github.com/erick3e/hasta_viejitos/issues/17",
+    "created_at": "2025-09-15T01:02:34Z",
+    "closed_at": null
+  },
+  {
+    "number": 16,
+    "title": "[Task]: Pour foundation (slab / crawl / basement)",
+    "state": "open",
+    "labels": [],
+    "url": "https://github.com/erick3e/hasta_viejitos/issues/16",
+    "created_at": "2025-09-15T01:01:43Z",
+    "closed_at": null
+  },
+  {
+    "number": 15,
+    "title": "[Task]: Trenching for utilities (electric, internet, gas if applicable)",
+    "state": "open",
+    "labels": [],
+    "url": "https://github.com/erick3e/hasta_viejitos/issues/15",
+    "created_at": "2025-09-15T01:00:59Z",
+    "closed_at": null
+  },
+  {
+    "number": 14,
+    "title": "[Task]: Connect well  to plumbing",
+    "state": "open",
+    "labels": [],
+    "url": "https://github.com/erick3e/hasta_viejitos/issues/14",
+    "created_at": "2025-09-15T01:00:32Z",
+    "closed_at": null
+  },
+  {
+    "number": 13,
+    "title": "[Task]: Build septic tank or connect to sewer.",
+    "state": "open",
+    "labels": [],
+    "url": "https://github.com/erick3e/hasta_viejitos/issues/13",
+    "created_at": "2025-09-15T00:59:56Z",
+    "closed_at": null
+  },
+  {
+    "number": 12,
+    "title": "[Task]: Soil test & Geotechnical report",
+    "state": "open",
+    "labels": [],
+    "url": "https://github.com/erick3e/hasta_viejitos/issues/12",
+    "created_at": "2025-09-15T00:59:25Z",
+    "closed_at": null
+  },
+  {
+    "number": 11,
+    "title": "[Task]: Clear land (trees, brush, grading)",
+    "state": "open",
+    "labels": [],
+    "url": "https://github.com/erick3e/hasta_viejitos/issues/11",
+    "created_at": "2025-09-15T00:58:26Z",
+    "closed_at": null
+  },
+  {
+    "number": 10,
+    "title": "[Task]: Submit plans for County approval",
+    "state": "open",
+    "labels": [],
+    "url": "https://github.com/erick3e/hasta_viejitos/issues/10",
+    "created_at": "2025-09-15T00:57:36Z",
+    "closed_at": null
+  },
+  {
     "number": 9,
     "title": "[Task]: Structural, electrical, plumbing plans",
     "state": "open",
